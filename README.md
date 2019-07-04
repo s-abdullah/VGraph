@@ -5,6 +5,7 @@ Implementation of visibility graph (vgraph) path planning algorithm using the Ar
 
 ## Usage
 *separate terminals*
+
 roslaunch vgraph launch.launch
 python main.py
 
