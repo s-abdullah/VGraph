@@ -19,6 +19,7 @@ python main.py
 - `maps/map.yaml`: Map metadata.
 - `package.xml`: Package metadata.
 - `world.rviz`: RViz configuration file.
+
 [This Base Package from](https://github.com/jingxixu/vgraph)
 
 ### Program
